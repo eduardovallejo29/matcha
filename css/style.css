@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #726A84;
+}
+
+#sec-organico{
+	color: #000000;
+	padding-top: 10%;
+	height: 50%;
+}
+
+
+h1{
+	font: url(../fonts/LemonMilk.otf);
+}
+
+h3{
+	color: #B42C2E;
+}
+#sec-kapematcha{
+	background-image: url(../img/japanese-matcha-green-tea-powder-in-wooden-bowl-PGB8MCN.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	color: #fff;
+	height: 350px;
+	padding-top: 30px;
+}
+
+#sec-kapematcha h1{
+	color: #fff;
+	align-items: left;
+	font-size: 90px;
+	padding-top:40px;
+	font: url(../fonts/LemonMilk.otf);
+	word-spacing: 4px;
+	
+}
+
+#sec-kapematcha p{
+	color: #fff;
+	align-items: left;
+	font-size: 15px;
+	padding-right:300px;
+	font: url( ../fonts/CaviarDreams.ttf);
+	align-content: left;
+	text-align: justify;
+	
+}
+
+#texto-origenes{
+	padding-top: 50px;
+}
+
+#sec-origenes p{
+	padding: 30px 0px 0px 10px;
+	font-size: 15px;
+	text-align: justify;
+	word-spacing: 2px;
+	line-height: 1.5;
+	
+}
+
+.origenes{
+	
+}.button1{
+	background-color: transparent;
+	border: solid 2px #fff;
+	text-transform: uppercase;
+	padding: 10px;
+	color: #fff;
+	border-radius: 0px;
+}
+#sec-intro{
+	background-image: url(../img/japanese-tools-for-brewing-matcha-green-tea-grey-P4M8NVX.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #FFFFFF;
+	padding-top: 15%;
+	padding-bottom: 20%;
+	height: 100%;
+	width: 100%;
+}
+
+
